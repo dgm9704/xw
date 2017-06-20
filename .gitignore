@@ -1,0 +1,8 @@
+bin/
+obj/
+packages/
+*.userprefs
+*.user
+.vscode/
+*.xlsx
+*.xlsx*
